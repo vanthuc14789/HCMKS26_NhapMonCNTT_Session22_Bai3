@@ -57,8 +57,8 @@ Yêu cầu:
 3. Đưa ra nguồn chính thức để kiểm chứng.
 4. Nếu không an toàn, hãy đề xuất cách sửa lỗi đơn giản và an toàn hơn.
 Không được khẳng định an toàn nếu chưa có bằng chứng.
-Ưu điểm: Chỉ có 4 yêu cầu nhưng vẫn giúp kiểm tra chức năng, độ an toàn, nguồn xác thực và tìm giải pháp thay thế. Đây là phiên bản phù hợp để đưa vào bài tập.
 </code></pre>
+Ưu điểm: Chỉ có 4 yêu cầu nhưng vẫn giúp kiểm tra chức năng, độ an toàn, nguồn xác thực và tìm giải pháp thay thế. Đây là phiên bản phù hợp để đưa vào bài tập.
 <h2 id="vì-sao-phải-kiểm-chứng-câu-trả-lời-của-ai">3. Vì sao phải kiểm chứng câu trả lời của AI?</h2>
 <ul>
 <li>
